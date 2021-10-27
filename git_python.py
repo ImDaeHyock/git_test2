@@ -6,3 +6,6 @@ print(test)
 
 ##third wrriten at github
 x= [1, 2, 3, 4]
+
+## fourth written at local
+y = np.exp(x)
