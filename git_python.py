@@ -6,3 +6,6 @@ print(test)
 
 ##third wrriten at github
 x= [1, 2, 3, 4]
+
+## fouth written at github
+y = np.log(x)
